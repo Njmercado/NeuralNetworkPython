@@ -1,0 +1,2 @@
+* Primer commit:
+  - Inserción del codigo que estaba en mi replit. Haciendo migración.
